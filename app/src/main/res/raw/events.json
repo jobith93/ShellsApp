@@ -1,0 +1,467 @@
+{
+    "events":[
+        {
+            "id"          : 1,
+            "name"        : "Coding",
+            "nickName"    : "Cleverbots",
+            "tagLine"     : "Ultimate Sophistication",
+            "description" : "We strive to revive the geek in you. A golden platform to showcase your programming abilities, insights and skill at set frequencies. It goes on to streamline each screening process.So Think, Type and Win!",
+            "icon"        : "coding.jpg",
+            "isSpecial"   : "false",
+            "members"     : "1",
+            "teams"       : "Unlimited",
+            "coordinators" : 
+            [
+                {
+                    "designation" : "Staff",
+                    "name"        : "Prof.A Muruganantham",
+                    "contact"     : "+91 8105638113",
+                    "email"       : "murushr@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Jobith M Basheer",
+                    "contact" : "+91 8904330374",
+                    "email"   : "15cs40110@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Ms.Geetha N",
+                    "contact" : "+91 9035110715",
+                    "email"   : "16cs40203@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Amareesh B P",
+                    "contact" : "+91 9544042254",
+                    "email"   : "16cs40103@kristujayanti.com"
+                }
+            ],
+            "rules" : [
+                {"line" : "Languages : C, C++, Java, JavaScript"},
+                {"line" : "IDE : Turbo C++, Code Blocks, Eclipse, NetBeans, Dev C++"},
+                {"line" : "Participants should have an aggregate of 60% and above throughout their academics (10th, PUC, UG and PG) without backlog."},
+                {"line" : "Winners will be rewarded with job offer from MNC's."},
+                {"line" : "Company Recruiters decision will be final."},
+                {"line" : "Individual Event."}
+
+            ]
+        },
+        {
+            "id"          : 2,
+            "name"        : "IT Qiuz",
+            "nickName"    : "Botnerds",
+            "tagLine"     : "Pursuit of Connaissance",
+            "description" : "Fueled by knowledge of trending technology, the event focuses on challenging minds to identify solutions by tact in any form. Keep up the flow of stress carriages you encounter at every level. ",
+            "icon"        : "quiz.jpg",
+            "isSpecial"   : "false",
+            "members"     : "2",
+            "teams"       : "1",
+            "coordinators" : 
+            [
+                {
+                    "designation" : "Staff",
+                    "name"    : "Prof.R Velmurugan",
+                    "contact" : "+91 8453418403",
+                    "email"   : "velmurugan@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Jijo Joseph",
+                    "contact" : "+91 9742311203",
+                    "email"   : "15cs40107@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Abijith Benny",
+                    "contact" : "+91 8553164496",
+                    "email"   : "15cs40101@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Shanjeet Sharma",
+                    "contact" : "+91 7022573979",
+                    "email"   : "16cs40121@kristujayanti.com"
+                }
+            ],
+            "rules" : [
+                {"line" : "1 Team per college."},
+                {"line" : "2 Participants per Team."},
+                {"line" : "Quiz master’s decision will be final."}, 
+                {"line" : "Usage of electronic gadgets will lead to disqualification."},
+                {"line" : "No change of team members during the event."}
+
+            ]
+        },
+        {
+            "id"          : 11,
+            "name"        : "IT Manager",
+            "nickName"    : "Botster",
+            "tagLine"     : "Battle for Emminence",
+            "description" : "Unleash the power from within! Show the world you have the tact plus power. The heroism to bring creative change around you. Display your all-rounder package to shine on!",
+            "icon"        : "manager.jpg",
+            "isSpecial"   : "true",
+            "members"     : "1",
+            "teams"       : "1",
+            "coordinators" : 
+            [
+                {
+                    "designation" : "Staff",
+                    "name"    : "Prof.Ambika P",
+                    "contact" : "+91 9590399036",
+                    "email"   : "ambika.p@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Aravindan  M",
+                    "contact" : "+91 9738465338",
+                    "email"   : "15cs40132@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Ms.Sangeetha S",
+                    "contact" : "+91 8050900552",
+                    "email"   : "15cs40128@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Ms.Aleena Ann Siby",
+                    "contact" : "+91 9886510556",
+                    "email"   : "16cs40102@kristujayanti.com"
+                }
+            ],
+            "rules" : [
+                {"line" : "Individual event"},
+                {"line" : "Participants for IT Manager cannot take part in other events."},
+                {"line" : "Participants must get their own laptops & pen drive."},
+                {"line" : "Decision will be made with respect to aggregate score of the participant."},
+                {"line" : "The decisions of the judges will be final."}
+
+            ]
+        },
+        {
+            "id"          : 4,
+            "name"        : "Web Designing",
+            "nickName"    : "Webneot",
+            "tagLine"     : "Adumbrate artistry",
+            "description" : "Language is no barrier to skill is what the event is all about. Mastery in Illustration and comprehension to give a bold, well-defined system. Enthrall the viewers by smart combination of color and taking care of the ease of use.",
+            "icon"        : "web.jpg",
+            "isSpecial"   : "false",
+            "members"     : "2",
+            "teams"       : "1",
+            "coordinators" : 
+            [
+                {
+                    "designation" : "Staff",
+                    "name"    : "Prof.Ambika P",
+                    "contact" : "+91 9590399036",
+                    "email"   : "ambika.p@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Chris Antu Thomas",
+                    "contact" : "+91 9048870477",
+                    "email"   : "15cs40106@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Ms.Athira Thomas V",
+                    "contact" : "+91 9035512709",
+                    "email"   : "16cs40201@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Deepak Dulal",
+                    "contact" : "+91 ",
+                    "email"   : "16cs40109@kristujayanti.com"
+                }
+            ],
+            "rules" : [
+                {"line" : "1 Team per college"},
+                {"line" : "2 Members per team."},
+                {"line" : "The decisions of the judges will be final."}
+
+            ]
+        },
+        {
+            "id"          : 5,
+            "name"        : "IT Tycoon",
+            "nickName"    : "Speaktoit",
+            "tagLine"     : "Impress to Impact",
+            "description" : "They shoot at what they see, comprehend, throw light and make the audience astounded as they walk in the limelight of success. Convincing they sound and convict to win-it!",
+            "icon"        : "speaker.jpg",
+            "isSpecial"   : "false",
+            "members"     : "2",
+            "teams"       : "Unlimited",
+            "coordinators" : 
+            [
+                {
+                    "designation" : "Staff",
+                    "name"    : "Prof.Jyothi Manoj",
+                    "contact" : "+91 9480090226",
+                    "email"   : "jyothimanoj@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Sudeep P",
+                    "contact" : "+91 9964343404",
+                    "email"   : "15cs40126@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Ms.Saritha Maria Quinn",
+                    "contact" : "+91 9036888792",
+                    "email"   : "16cs40205@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Sarjun S S",
+                    "contact" : "+91 9632863670",
+                    "email"   : "16cs40110@kristujayanti.com"
+                }
+            ],
+            "rules" : [
+                {"line" : "Two members per team."},
+                {"line" : "Every Team must have a Business Concept, Originality of concepts is expected."},
+                {"line" : "The presentations for the entrepreneurship round needs to be submitted prior to the event."},
+                {"line" : "The marks of each event are cumulated for the subsequent rounds."},
+                {"line" : "Unlimited entries from a college."},
+                {"line" : "Candidates with materials to promote their product/business idea are appreciated."}
+
+            ]
+        },
+        {
+            "id"          : 6,
+            "name"        : "Gaming",
+            "nickName"    : "Gamatots",
+            "tagLine"     : "Correlated Conquest",
+            "description" : "When the stress-buster becomes passion, When skill becomes mindful-thinking, There we know the champion is in! Break the shackles of all challenging modes to lift the joy of victory.",
+            "icon"        : "game.jpg",
+            "isSpecial"   : "false",
+            "members"     : "3",
+            "teams"       : "1",
+            "coordinators" : 
+            [
+                {
+                    "designation" : "Staff",
+                    "name"    : "Prof.R Kumar ",
+                    "contact" : "+91 9902933747",
+                    "email"   : "rkumar@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr Daniel A",
+                    "contact" : "+91 8892497932",
+                    "email"   : "15cs40133@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Ashwin Praksh Patil",
+                    "contact" : "+91 9902350307",
+                    "email"   : "16cs40209@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Nikhil Shibu",
+                    "contact" : "+91 9746873558",
+                    "email"   : "15cs40121@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Kynsaihunlang Iangrai",
+                    "contact" : "+91 9615769967",
+                    "email"   : "16cs40120@kristujayanti.com"
+                }
+            ],
+            "rules" : [
+                {"line" : "1 team per college."},
+                {"line" : "3 members per team."},
+                {"line" : "Participants should bring their own headset and joystick."},
+                {"line" : "Use of cheat codes will lead to disqualification."},
+                {"line" : "Ultimate gamer will be awarded on the basis of track record."}
+
+            ]
+        },
+        {
+            "id"          : 7,
+            "name"        : "Multimedia",
+            "nickName"    : "Snapotots",
+            "tagLine"     : "Illution of reality",
+            "description" : "For the minds who see the world in a picture, and move this world with their digital graphic skills. They have a studio that runs in their mind. They talk, Walk and live the arena.",
+            "icon"        : "multi.jpg",
+            "isSpecial"   : "false",
+            "members"     : "2",
+            "teams"       : "1",
+            "coordinators" : 
+            [
+                {
+                    "designation" : "Staff",
+                    "name"    : "Prof.Bino Joseph",
+                    "contact" : "+91 8951820172",
+                    "email"   : "binojoseph@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Kurian George",
+                    "contact" : "+91 805061198",
+                    "email"   : "15cs40114@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Vishnu Prasad S",
+                    "contact" : "+91 9886736850",
+                    "email"   : "16cs40211@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Jeril James",
+                    "contact" : "+91 9400418093",
+                    "email"   : "16cs40116@kristujayanti.com"
+                }
+            ],
+            "rules" : [
+                {"line" : "Two members per team."},
+                {"line" : "Participants need to bring their own Camera, Laptop, Tripod e.t.c."},
+                {"line" : "Theme will be provided to each team during the briefing session."},
+                {"line" : "90 secs Video, 1 Photo & 1 Poster need to be submitted based on the theme."}
+
+            ]
+        },
+        {
+            "id"          : 8,
+            "name"        : "Treasure Hunt",
+            "nickName"    : "Infobot",
+            "tagLine"     : "Resilient luminance",
+            "description" : "Got to get out and make hands dirty. Coping up with team pressure and integrating opinions, The hunters will have to strive to survive, Cos the yolk hidden in “SHELLS” gives birth to a hunt Champion.!",
+            "icon"        : "treasure.jpg",
+            "isSpecial"   : "false",
+            "members"     : "2",
+            "teams"       : "1",
+            "coordinators" : 
+            [
+                {
+                    "designation" : "Staff",
+                    "name"    : "Prof.R Velmurugan",
+                    "contact" : "+91 8453418403",
+                    "email"   : "velmurugan@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Joel Mathew",
+                    "contact" : "+91 9742925965",
+                    "email"   : "15cs40112@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Angela Celesteena",
+                    "contact" : "+91 9036182616",
+                    "email"   : "15cs40104@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Tiju Thomas",
+                    "contact" : "+91 9620789731",
+                    "email"   : "16cs40133@kristujayanti.com"
+                }
+            ],
+            "rules" : [
+                {"line" : "One team per college."},
+                {"line" : "Two members in a team."},
+                {"line" : "All the clues are within the campus itself."},
+                {"line" : "Fully charged Android smart phones are compulsory."},
+                {"line" : "Participants are not allowed to use the elevators during the event."}
+
+            ]
+        },
+        {
+            "id"          : 3,
+            "name"        : "Networking",
+            "nickName"    : "Spambot",
+            "tagLine"     : "Craft Swap Network",
+            "description" : "These expertise is bridging the gap between figuring out the device protocols and building them. They device and break. Monitor and Troubleshoot Lay your hands on it and nail them.",
+            "icon"        : "networks.jpg",
+            "isSpecial"   : "false",
+            "members"     : "2",
+            "teams"       : "1",
+            "coordinators" : 
+            [
+                {
+                    "designation" : "Staff",
+                    "name"    : "Prof.R Kumar",
+                    "contact" : "+91 9902933747",
+                    "email"   : "rkumar@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Nidhin A Manjaly",
+                    "contact" : "+91 8861419896",
+                    "email"   : "15cs40120@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Jerin John V",
+                    "contact" : "+91 7411841066",
+                    "email"   : "16cs40208@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Jipindas P",
+                    "contact" : "+91 9645627196",
+                    "email"   : "16cs401@kristujayanti.com"
+                }
+            ],
+            "rules" : [
+                {"line" : "1 Team per college"},
+                {"line" : "2 participants per college"},
+                {"line" : "Co-ordinators decision will be final"},
+                {"line" : "No change of team members"}
+
+            ]
+        },
+        {
+            "id"          : 10,
+            "name"        : "Event X",
+            "nickName"    : "X-bot",
+            "tagLine"     : "Innovation well Played",
+            "description" : "Surprises compiled with enthusiasts output a bunch of talents being un-realizing Recognizable.! So buck up, pull up your socks while the event opens doors for the cool-techies.",
+            "icon"        : "star.jpg",
+            "isSpecial"   : "true",
+            "members"     : "2",
+            "teams"       : "1",
+            "coordinators" : 
+            [
+                {
+                    "designation" : "Staff",
+                    "name"    : "Prof.A Muruganantham",
+                    "contact" : "+91 8105638113",
+                    "email"   : "murushr@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Jobith M Basheer",
+                    "contact" : "+91 8904330374",
+                    "email"   : "15cs40110@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Mr.Mutum Jonex",
+                    "contact" : "+91 8553785667",
+                    "email"   : "15cs40117@kristujayanti.com"
+                },
+                {
+                    "designation" : "Student",
+                    "name"    : "Ms.Nissy George",
+                    "contact" : "+91 8147898547",
+                    "email"   : "16cs40126@kristujayanti.com"
+                }
+            ],
+            "rules" : [
+                {"line" : "Rounds include Technical and Non-TEchnical"},
+                {"line" : "All round performance will expected from participants"},
+                {"line" : "Participants should carry a Laptop and an Android Smartphone"}
+
+            ]
+        }
+
+    ]
+}

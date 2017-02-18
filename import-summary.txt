@@ -1,0 +1,44 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* proguard-unity.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => shellsScanPromo/src/main/AndroidManifest.xml
+* assets/ => shellsScanPromo/src/main/assets/
+* libs/Vuforia.jar => shellsScanPromo/libs/Vuforia.jar
+* libs/VuforiaUnityPlayer.jar => shellsScanPromo/libs/VuforiaUnityPlayer.jar
+* libs/armeabi-v7a/libVuforia.so => shellsScanPromo/src/main/jniLibs/armeabi-v7a/libVuforia.so
+* libs/armeabi-v7a/libVuforiaUnityPlayer.so => shellsScanPromo/src/main/jniLibs/armeabi-v7a/libVuforiaUnityPlayer.so
+* libs/armeabi-v7a/libVuforiaWrapper.so => shellsScanPromo/src/main/jniLibs/armeabi-v7a/libVuforiaWrapper.so
+* libs/armeabi-v7a/libmain.so => shellsScanPromo/src/main/jniLibs/armeabi-v7a/libmain.so
+* libs/armeabi-v7a/libmono.so => shellsScanPromo/src/main/jniLibs/armeabi-v7a/libmono.so
+* libs/armeabi-v7a/libunity.so => shellsScanPromo/src/main/jniLibs/armeabi-v7a/libunity.so
+* libs/unity-classes.jar => shellsScanPromo/libs/unity-classes.jar
+* res/ => shellsScanPromo/src/main/res/
+* src/ => shellsScanPromo/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
